@@ -1,1 +1,0 @@
-## Introduction Shell permission
